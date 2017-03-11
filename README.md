@@ -2,6 +2,13 @@
 
 By Logan Hillberry
 
+
+This code has been superceeded by the qops project. See https://github.com/lhillber/qops
+
+
+
+
+
 The project enables the simulation of quantum elementary cellular automata.
 Dependencies include: python3, numpy, scipy, matplotlib, mpi4py, and h5py.
 Simulations are done in 3
